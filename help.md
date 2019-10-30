@@ -3,6 +3,7 @@
 "公告":"已添加国内节点，双击标题，然后下拉刷新即可。",
 "版本":"284",
 "全部":"是",
-"域名":"是,http://sdk点marysharon点cn点com/8/"
+"域名":"是,http://sdk点marysharon点cn点com/8/",
+"校验":"bin.mt.apksignaturekillerplus.HookApplication"
 }
 〓
