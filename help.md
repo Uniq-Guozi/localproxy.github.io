@@ -2,7 +2,7 @@
 {"通知":"是",
 "公告":"如部分功能无网，请更新到LP_288测试版",
 "版本":"287",
-"全部":"否，退出",
+"全部":"否",
 "域名":"否,http://sdk点marysharon点cn点com/8/",
 "校验":"bin.mt.apksignaturekillerplus.HookApplication,/lib/libmthook.so,libmthook.so"
 }
