@@ -4,7 +4,7 @@
 "版本":"285",
 "全部":"是，退出",
 "域名":"否,http://sdk点marysharon点cn点com/8/",
-"游戏":"是,2020-09-01 00:00",
+"游戏":"是,2020-12-01 00:00",
 "校验":"bin.mt.apksignaturekillerplus.HookApplication,/lib/libmthook.so,/libmthook.so"
 }
 〓
