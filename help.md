@@ -5,6 +5,7 @@
 "全部":"是，退出",
 "域名":"否,http://sdk点marysharon点cn点com/8/",
 "游戏":"是,2020-12-01 00:00",
-"校验":"bin.mt.apksignaturekillerplus.HookApplication,/lib/libmthook.so,/libmthook.so"
+"校验":"bin.mt.apksignaturekillerplus.HookApplication,/lib/libmthook.so,/libmthook.so",
+"更新":"true,230,更新大更新,http://www.baidu.com"
 }
 〓
