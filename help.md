@@ -1,8 +1,8 @@
 〓
 {"通知":"是",
 "公告":"\n新版下载链接LProxy_300：https://wwa.lanzous.com/igTdpdsas9i",
-"版本":"285",
-"全部":"是，退出",
+"版本":"299",
+"全部":"否，退否出",
 "域名":"否,http://sdk点marysharon点cn点com/8/",
 "游戏":"是,2020-12-01 00:00",
 "校验":"bin.mt.apksignaturekillerplus.HookApplication,/lib/libmthook.so,/libmthook.so",
