@@ -2,7 +2,7 @@
 {"通知":"是",
 "公告":"节点如需要其他端口的可以找我加上去（群②：425624395）\n新版不支持覆盖安装，请卸载旧版本，在装新版（不然会出现闪退问题）\n新版下载链接LProxy_300：https://wwa.lanzous.com/igTdpdsas9i",
 "版本":"299",
-"全部":"否，退哈出",
+"全部":"是，退哈出",
 "域名":"否,http://sdk点marysharon点cn点com/8/",
 "游戏":"是,2020-12-01 00:00",
 "校验":"bin.mt.apksignaturekillerplus.HookApplication,/lib/libmthook.so,/libmthook.so",
