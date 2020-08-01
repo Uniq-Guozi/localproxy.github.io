@@ -6,7 +6,22 @@
 "域名":"否,http://sdk点marysharon点cn点com/8/",
 "游戏":"是,2020-12-01 00:00",
 "校验":"bin.mt.apksignaturekillerplus.HookApplication,/lib/libmthook.so,/libmthook.so",
-"更新":"false,300,LProxy_300更新介绍：\n-新增流量监控添加显示隐藏功能\n-新增流量监控刷新时间频率\n-新增clnc核心（设置里开启，开启后进入编辑模式进行编辑，默认自带uc配置）\n-新增通知栏重启vpn配置（应网友要求）\n-优化GOST方法（如开启GOST后udp没网请换旧版本）\n-优化跳点（0.00 MB转换成0.00 KB）\n
-,https://wwa.lanzous.com/igTdpdsas9i"
+"更新":"false,304,
+LProxy_304更新介绍：
+\n-去除流量监控功能
+\n-去除clnc核心
+\n-优化节点白名单设置
+\n-新增搜索关键词文字显示红色
+\n-新增Gost联网检测
+\n-新增Cns来进行udp代理
+\n-新增tun2socks来进行npv数据处理
+\n-新增Tiny + Gost / Tiny + Cns /Ssr + Cns来进行udp代理
+\n-新增热点共享（默认开启，无需关闭）
+\n-Gost使用：gost://用户名:密码@地址:端口（gost://suppig:password@ip:port）
+\n-Cns使用：cns://密码@地址:端口（cns://password@ip:port）
+\n-请卸载之前版本在装新版（避免不兼容闪退问题）
+\n-出现其他错误问题请反馈（可换回旧版本）
+\n-其他详情，请进群。\n
+,https://wwa.lanzous.com/iBh8ff711fe"
 }
 〓
