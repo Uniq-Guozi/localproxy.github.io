@@ -26,6 +26,6 @@ LProxy_304更新介绍：
 \n-请卸载之前版本在装新版（避免不兼容闪退问题）
 \n-出现其他错误问题请反馈（可换回旧版本）
 \n-其他详情，请进群。\n
-,https://wwa.lanzous.com/iBh8ff711fe"
+,https://www.baidu.com"
 }
 〓
