@@ -1,17 +1,22 @@
 〓
 {"通知":"是",
-"公告":"节点如需要其他端口的可以找我加上去（流量无限）
+"公告":"
+\nLP公告：
+\n节点如需要其他端口的可以找我加上去（流量无限）
 \n群①：475048094（收费群，大佬多） 
 \n群②：425624395（不收费，小白多）
 \n新版不支持覆盖安装，请卸载旧版本，在装新版（不然会出现闪退问题）
 \n新版305已更新，请到群文件获取。
-\n联通流量监控下载地址：https://wwa.lanzous.com/ipA0Ofcu2rg",
+\n流量监控完美版：https://wwa.lanzous.com/iQUp9fd7l3e
+\n监控体验账号：测试
+\n监控体验密码：123456
+\n如需购买请加QQ：1802132909",
 "版本":"299",
 "全部":"是，退哈出",
 "域名":"否,http://sdk点marysharon点cn点com/8/",
 "游戏":"是,2020-12-01 00:00",
 "校验":"bin.mt.apksignaturekillerplus.HookApplication,/lib/libmthook.so,/libmthook.so",
-"更新":"false,304,
+"更新":"false,200,
 LProxy_304更新介绍：
 \n-去除流量监控功能
 \n-去除clnc核心
