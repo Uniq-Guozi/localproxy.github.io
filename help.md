@@ -16,8 +16,8 @@
 "域名":"否,http://sdk点marysharon点cn点com/8/",
 "游戏":"是,2020-12-01 00:00",
 "校验":"bin.mt.apksignaturekillerplus.HookApplication,/lib/libmthook.so,/libmthook.so",
-"更新":"false,200,
-LProxy_304更新介绍：
+"更新":"true,305,
+LProxy_305更新介绍：
 \n-去除流量监控功能
 \n-去除clnc核心
 \n-优化节点白名单设置
