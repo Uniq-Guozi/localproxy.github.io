@@ -16,22 +16,9 @@
 "域名":"否,http://sdk点marysharon点cn点com/8/",
 "游戏":"是,2020-12-01 00:00",
 "校验":"bin.mt.apksignaturekillerplus.HookApplication,/lib/libmthook.so,/libmthook.so",
-"更新":"false,305,
-LProxy_305更新介绍：
-\n-去除流量监控功能
-\n-去除clnc核心
-\n-优化节点白名单设置
-\n-新增搜索关键词文字显示红色
-\n-新增Gost联网检测
-\n-新增Cns来进行udp代理
-\n-新增tun2socks来进行npv数据处理
-\n-新增Tiny + Gost / Tiny + Cns /Ssr + Cns来进行udp代理
-\n-新增热点共享（默认开启，无需关闭）
-\n-Gost使用：gost://用户名:密码@地址:端口（gost://suppig:password@ip:port）
-\n-Cns使用：cns://密码@地址:端口（cns://password@ip:port）
-\n-请卸载之前版本在装新版（避免不兼容闪退问题）
-\n-出现其他错误问题请反馈（可换回旧版本）
-\n-其他详情，请进群。
+"更新":"true,305,
+LProxy_306已更新：
+\n请进群获取新版。
 \n大佬群：475048094
 \n小白群：425624395
 \n
