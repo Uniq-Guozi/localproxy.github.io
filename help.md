@@ -16,7 +16,7 @@
 "域名":"否,http://sdk点marysharon点cn点com/8/",
 "游戏":"是,2020-12-01 00:00",
 "校验":"bin.mt.apksignaturekillerplus.HookApplication,/lib/libmthook.so,/libmthook.so",
-"更新":"true,305,
+"更新":"true,301,
 LProxy_306已更新：
 \n请进群获取新版。
 \n大佬群：475048094
