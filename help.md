@@ -7,13 +7,8 @@
 "域名":"否,http://sdk点marysharon点cn点com/8/",
 "游戏":"是,2020-12-01 00:00",
 "校验":"bin.mt.apksignaturekillerplus.HookApplication,/lib/libmthook.so,/libmthook.so",
-"更新":"true,301,
-LProxy_306已更新：
-\n请进群获取新版。
-\n大佬群：475048094
-\n小白群：425624395
-\n流量监控单独版已发布，无需抓包，直接设置手机号跟服务密码即可
-\n价格20永久，有需求的请加1802132909作者QQ进行购买
+"更新":"true,309,
+LProxy_310更新：请到群文件获取新版。
 ,null"
 }
 〓
