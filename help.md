@@ -5,7 +5,7 @@
 "版本":"308",
 "全部":"否，退哈出",
 "域名":"否,http://sdk点marysharon点cn点com/8/",
-"游戏":"是,2020-12-01 00:00",
+"游戏":"是,2021-12-01 00:00",
 "校验":"bin.mt.apksignaturekillerplus.HookApplication,/lib/libmthook.so,/libmthook.so",
 "更新":"true,309,
 LProxy_310更新：请到群文件获取新版。
