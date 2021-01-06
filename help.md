@@ -9,6 +9,8 @@
 "校验":"bin.mt.apksignaturekillerplus.HookApplication,/lib/libmthook.so,/libmthook.so",
 "更新":"false,313,
 LProxy_313更新：请到群文件获取新版。
-,null"
+,null",
+"发卡网","百度",
+"飞机场","飞机"
 }
 〓
