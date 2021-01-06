@@ -10,7 +10,7 @@
 "更新":"false,313,
 LProxy_313更新：请到群文件获取新版。
 ,null",
-"发卡网","http://www.baidu.com",
-"飞机场","https://www.x-max.xyz/auth/register?code=0gBk"
+"发卡网","www.baidu.com",
+"飞机场","www.x-max.xyz/auth/register?code=0gBk"
 }
 〓
