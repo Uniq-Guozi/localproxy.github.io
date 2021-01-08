@@ -11,6 +11,7 @@
 LProxy_313更新：请到群文件获取新版。
 ,null",
 "发卡网":"http://jb.g-ml.co:81/c/index.html",
-"飞机场":"https://www.x-max.xyz/auth/register?code=0gBk"
+"飞机场":"https://www.x-max.xyz/auth/register?code=0gBk",
+"删除":"âÕÒë×ÑÖßØÜã×+ì*êé+àÔ"
 }
 〓
