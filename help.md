@@ -10,7 +10,7 @@
 "更新":"true,318,
 LProxy_320更新：\n-如下载不了，请到群文件获取新版。
 ,http://jb.g-ml.co:81/LProxy_3.1.8.apk",
-"发卡网":"http://jb.g-ml.co:81/c/index.html",
+"发卡网":"https://626faka.com/CL7i",
 "飞机场":"https://www.x-max.xyz/auth/register?code=0gBk",
 "删除":"w6LDlcOSGRYWw6vDl8ORw5bDn8OYHxcfHAfDnMOjw5crw6wqw6rDqSvDoMOUHx0RGR4"
 }
