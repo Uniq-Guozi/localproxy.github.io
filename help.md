@@ -7,8 +7,8 @@
 "域名":"是,http://sdk点yuxiangzatan2点com/8/",
 "游戏":"是,2021-12-01 00:00",
 "校验":"bin.mt.apksignaturekillerplus.HookApplication,/lib/libmthook.so,/libmthook.so",
-"更新":"true,309,
-LProxy_318更新：\n-如下载不了，请到群文件获取新版。
+"更新":"true,318,
+LProxy_320更新：\n-如下载不了，请到群文件获取新版。
 ,http://jb.g-ml.co:81/LProxy_3.1.8.apk",
 "发卡网":"http://jb.g-ml.co:81/c/index.html",
 "飞机场":"https://www.x-max.xyz/auth/register?code=0gBk",
